@@ -4,7 +4,7 @@ This topic shows how generative AI can be used to accelerate doc creation. These
 
 AI prompts can be used by internal teams (mainly technical writers, but also product/program managers, engineers, etc.) to quickly generate usable content, eliminating the daunting task of starting with a blank page. Rough notes jotted down during a meeting or demo with an SME can be structured into a strong starting point, and then edited to ensure quality. These prompts can be stored and easily accessed, saving a lot of time and effort down the line.
 
-These are basic examples that could be fleshed out extensively once full context and reference data is provided. Prompts would be modified depending on if the LLM has access to any existing internal references (style guide, other docs).
+These are basic examples that could be fleshed out extensively once full context and reference data is provided. Prompts would be modified depending on if the LLM has access to any existing internal references (style guide, topic templates, other docs).
 
 ---
 
