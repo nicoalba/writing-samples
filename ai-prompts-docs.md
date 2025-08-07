@@ -61,7 +61,7 @@ A new feature lets users bulk-edit tags. After speaking with an SME, I took down
 
 # Bulk edit tags
 
-Follow these steps to bulk edit tags.
+The bulk edit tags feature makes it easy to update multiple assets at once. Follow these steps to bulk edit tags:
 
 ## Steps
 
