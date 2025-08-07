@@ -24,7 +24,7 @@ Our support team often gets asked "How do I track asset depreciation?". The prod
 
 ```markdown
 **Q: How do I track asset depreciation?**
-A: {product} lets you assign a depreciation method (like straight-line, declining balance method, or MACRS) to each asset type. The system automatically calculates depreciation over time and includes it in your reports.
+A: {product} lets you assign a depreciation method (like straight-line, declining balance method, or MACRS) to each asset type. The system automatically calculates depreciation over time and includes it in your reports for easy tracking and compliance.
 ```
 
 ---
