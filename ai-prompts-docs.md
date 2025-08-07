@@ -1,4 +1,4 @@
-# Use AI prompts to automate/accelerate docs
+# Use AI prompts to automate/accelerate doc creation
 
 This topic shows how generative AI can be used to accelerate doc creation. These examples simulate real-world use cases where a technical writer provides context (e.g., from SMEs, product specs, or testing) and uses prompts to generate new docs. These prompts are reusable templates, allowing technical writers to scale documentation while maintaining consistency and quality.
 
