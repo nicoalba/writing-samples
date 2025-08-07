@@ -2,7 +2,7 @@
 
 This topic shows how generative AI can be used to accelerate doc creation. These examples simulate real-world use cases where a technical writer provides context (e.g., from SMEs, product specs, or testing) and uses prompts to generate new docs. These prompts are reusable templates, allowing technical writers to scale documentation while maintaining consistency and quality.
 
-AI prompts can be used by internal teams (mainly technical writers, but also product/program managers, engineers, etc.) to quickly generate usable content, eliminating the daunting task of starting with a blank slate. Rough notes jotted down during a meeting or demo with an SME can be structured into a strong starting point, and then edited to ensure quality. These prompts can be stored and easily accessed, saving a lot of time and effort down the line.
+AI prompts can be used by internal teams (mainly technical writers, but also product/program managers, engineers, etc.) to quickly generate usable content, eliminating the daunting task of starting with a blank page. Rough notes jotted down during a meeting or demo with an SME can be structured into a strong starting point, and then edited to ensure quality. These prompts can be stored and easily accessed, saving a lot of time and effort down the line.
 
 ---
 
