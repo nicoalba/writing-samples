@@ -100,12 +100,12 @@ The product uses bearer tokens for API authentication. I want to include quick-s
 All API requests require a bearer token in the `Authorization` header.
 
 **cURL**
-```bash
+\```bash
 curl -H "Authorization: Bearer YOUR_TOKEN" https://api.product.com/
 \```
 
 **Python**
-```python
+\```python
 import requests
 
 headers = {"Authorization": "Bearer YOUR_TOKEN"}
