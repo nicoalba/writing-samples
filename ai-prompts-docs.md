@@ -68,7 +68,8 @@ Follow these steps to bulk edit tags.
 3. Click **Edit tags**.
 4. Add, remove, or edit the tags.
 
-    *Note: This feature only works when all selected assets are of the same type.*
+    **Note**: This feature only works when all selected assets are of the same type.
+
 5. Click **Ok**.
 
 ## More info
